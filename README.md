@@ -12,3 +12,6 @@ Focus Finder 是一款旨在提升墨尔本大学学生校园生活的移动应�
 项目房间签到功能：确保预约的学习空间得到有效利用，未签到的预约将在15分钟后释放给其他学生使用。
 ## Figma link:
 https://www.figma.com/design/O4ptS4K6V1g680c7XCGliT/INFO90010-Project-Prototype
+
+## Project Video
+https://www.youtube.com/watch?v=RizqzxgVygQ
